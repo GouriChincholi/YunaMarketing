@@ -917,6 +917,7 @@ nav {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* 4 cards in a row on desktop */
   gap: 1rem; /* spacing between cards */
+  margin-top: 0;
 }
 
 .service__card {
@@ -1149,3 +1150,4 @@ html {
 .subscribe__container {
 padding: 0 1rem;
 }
+
