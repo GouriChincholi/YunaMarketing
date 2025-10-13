@@ -1146,3 +1146,6 @@ html {
   letter-spacing: 1px;
 }
 
+.subscribe__container {
+padding: 0 1rem;
+}
